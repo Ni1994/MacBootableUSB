@@ -1,5 +1,5 @@
 # MacBootableUSB
-Create a bootable mac USB from Windows.
+How to create a bootable mac USB from Windows.
 
 ### Prerequisites:
 
